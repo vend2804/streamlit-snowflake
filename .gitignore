@@ -130,6 +130,14 @@ ENV/
 env.bak/
 venv.bak/
 
+**/lib/
+**/__pycache__
+**/node_modules
+**/package-lock.json
+**/.streamlit/
+**/yolo
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
